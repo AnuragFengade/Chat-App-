@@ -36,6 +36,7 @@ chat-app/
 │── backend/         # Server-side logic  
 │── database/        # DB scripts  
 │── README.md        # Project documentation  
+
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
 git clone https://github.com/your-username/chat-app.git
