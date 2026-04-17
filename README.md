@@ -41,14 +41,14 @@ chat-app/
 1️⃣ Clone the repository
 git clone https://github.com/your-username/chat-app.git
 cd chat-app
+
 2️⃣ Backend Setup
 cd backend
 mvn spring-boot:run
-
 (or for Node.js)
-
 npm install
 npm start
+
 3️⃣ Frontend Setup
 cd frontend
 npm install
@@ -57,13 +57,7 @@ npm start
 
 Create a .env file and add:
 
-PORT=8080
-DB_URL=your_database_url
-JWT_SECRET=your_secret_key
-📸 Screenshots
-
-Add your project screenshots here
-
+ 
 📌 Future Enhancements
 🌐 Video/Voice Calling
 🤖 AI Chatbot Integration
