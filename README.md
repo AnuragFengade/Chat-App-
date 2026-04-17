@@ -29,6 +29,7 @@ Other Tools:
 
 WebSockets / Socket.IO
 REST APIs
+
 📂 Project Structure
 chat-app/
 │── frontend/        # UI code  
