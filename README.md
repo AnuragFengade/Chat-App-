@@ -38,6 +38,7 @@ chat-app/
 │── README.md        # Project documentation  
 
 ⚙️ Installation & Setup
+
 1️⃣ Clone the repository
 git clone https://github.com/your-username/chat-app.git
 cd chat-app
